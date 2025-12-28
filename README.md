@@ -33,3 +33,7 @@ https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 ![截图1](/img/live1.png)
 
 ![截图2](/img/live2.png)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jn950/live&type=Date)](https://star-history.com/#jn950/live&Date)
