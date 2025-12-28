@@ -14,7 +14,7 @@
 
 **导航**：https://sej95.github.io
 
-**极速地址**：
+**体验地址**：
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 ---
 
