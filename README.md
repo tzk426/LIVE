@@ -18,7 +18,7 @@
 
 ## 直播源调用地址
 
-- **M3U**：暂未提供
+- **M3U**：暂定日更
 - **TXT**：每日自动双更，若未更或错误，可进群提醒
 - **仓库文件加速 组播线路：** https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 - **文件加速 酒店咪咕线路：** https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3u
